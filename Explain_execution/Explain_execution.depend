@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1544794925 source:e:\codeblocks\compilation principle\explain_execution\main.cpp
+	<iostream>
+	<fstream>
+	<stack>
+	<vector>
+

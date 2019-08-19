@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1542585764 source:e:\codeblocks\compilation principle\translater\main.cpp
+	<iostream>
+	<map>
+	<vector>
+	<fstream>
+

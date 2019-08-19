@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1545015144 source:e:\codeblocks\compilation principle\gramma analysis\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<stack>
+	<utility>
+

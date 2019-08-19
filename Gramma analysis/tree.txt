@@ -1,0 +1,16 @@
+					Subprogram
+		ConstDT  	 VarDT     			ProcedureDT     																											Statement
+	const ConstDF  var VarD        		Procedures      																											Complex
+ConstD ConsetDA 	  ID   IDAny ;  	Procedure 							ProcedureA    																	begin Statements end
+ID = 36     ;         c , ID IDAny   ProcedureHead   			Subprogram;	NULL    																			Statement 				StatementA
+a       				  d   NULL   procedure ID;  ConstDT    VarDT     ProcedureDT      Statement       														Read; 					Statement 													StatementA
+											    p     NULL  var   VarD    NULL    	   	  Complex 													read (Identifier IdentifierA)   	Conitional;												Statement 												StatementA
+																ID IDAny;  			begin Statements end    												c, 		  ID IDAny      if Condition then 	     			Statement    			Write;  											Statement	 StatementA
+															    g   NULL    	 Statement 				StatementA    							   			    	  d  NULL    Expression <= Expression   			Assign  				write(Expression 		ExpressionA) 					Call;	Statement StatementA
+																				 Assign;     		 Statement 					StatementA   	 									Items   	Items  		 			ID := Expression          		Items,			Expression ExpressionA 			call p  NULL        NULL
+																			ID := Expression 		   Write;  					Statement StatementA   							Item ItemA      Item 		    ItemA   c      Items  				Item 	     ItemA    Items    NULL
+																			g      Items  		 write(Expression ExpressionA) 	NULL   	   NULL			    			Factor FactorA  NULL    Factor FactorA  NULL    	Item 		ItemA      Factor FactorA NULL  Item 			ItemA
+																				Item ItemA       		Items  		NULL    											   c    NULL    		d       NULL    		Factor FactorA  NULL    	c       NULL    	Factor FactorA   NULL
+																			Factor FactorA  NULL       Item       ItemA    		  																						a      NULL    									d      	NULL
+																			1234567 NULL    	  Factor FactorA  NULL
+																								   g       NULL
